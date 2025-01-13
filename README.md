@@ -5,7 +5,7 @@ Este repositório contém os materiais utilizados na construção do projeto **E
 ## Estrutura do Repositório
 
 - **Prompts**: Todos os prompts utilizados para guiar a construção do projeto estão documentados na pasta `prompts/`.
-- **Imagens**: As imagens geradas para o artigo estão organizadas na pasta `imagens/`.
+- **Images**: As imagens geradas para o artigo estão organizadas na pasta `imagens/`.
 
 ## Artigo
 
