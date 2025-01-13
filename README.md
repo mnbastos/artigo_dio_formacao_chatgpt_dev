@@ -11,7 +11,7 @@ Este repositório contém os materiais utilizados na construção do projeto **E
 
 Confira o artigo completo clicando no link abaixo:
 
-[Leia o artigo aqui](#https://web.dio.me/articles/entendendo-os-tipos-de-join-no-power-query-facil-como-brincar-com-blocos?back=%2Farticles&open-modal=true&page=1&order=oldest)
+[Leia o artigo aqui](https://web.dio.me/articles/entendendo-os-tipos-de-join-no-power-query-facil-como-brincar-com-blocos?back=%2Farticles&open-modal=true&page=1&order=oldest)
 
 
 
