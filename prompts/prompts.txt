@@ -1,0 +1,9 @@
+Comporte-se como um escritor tech e crie o seguinte artigo com linguagem simples que uma criança de 10 anos compreenda:
+
+[REGRAS]
+
+Blocos de no maximo 5 linhas
+Explicação dos tipos de Join existentes no power query no power bi
+Crie exemplos de cada tipo
+faça call to action para as minhas redes sociais
+crie 3 hastags que façam sentido
